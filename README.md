@@ -6,7 +6,7 @@
 - 💼 Currently working as a Junior Executive at Feedback Infra Pvt Ltd, Gurugram.
 - 🎓 B.Sc in Math
 - 🌱 Continuously learning , particularly focusing on MLOps, Deep Learning, and NLP to enhance proficiency and knowledge
-- 👨‍💻 Check out my projects on [GitHub](https://github.com/miqbal303).
+- 👨‍💻 Check out my projects on [GitHub]([https://github.com/miqbal303](https://github.com/miqbal303?tab=repositories)).
 - 📫 My Portfolio [GitHub](https://sites.google.com/view/miqbal-portfolio/home)
 
 ## My Github Stats
