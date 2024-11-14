@@ -3,7 +3,7 @@
 
 
 ## About Me
-- 💼 Currently working as a Junior Executive(ML Engineer) at Feedback Infra Pvt Ltd, Gurugram.
+- 💼 Currently working as a Freelancer(ML Engineer)
 - 🎓 B.Sc in Math
 - 🌱 Continuously learning , particularly focusing on MLOps, Deep Learning, and NLP to enhance proficiency and knowledge
 - 👨‍💻 Check out my projects on Git Repos [GitHub](https://github.com/miqbal303?tab=repositories)
