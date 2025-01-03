@@ -15,9 +15,6 @@
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=miqbal303)
 ![Github Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=miqbal303)
 
-## LeetCode Stats
-
-![](https://leetcard.jacoblin.cool/miqbal303?theme=unicorn)
 
 
 <h3 align="left">Connect with me:</h3>
